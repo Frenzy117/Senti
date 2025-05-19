@@ -1,7 +1,8 @@
 
-# 🎵 Reddit Sentiment Analyzer for Songs
+# 🎵 Senti - Reddit Sentiment Analyzer for Songs
 
-This project is a basic Natural Language Processing (NLP) application that analyzes public sentiment on Reddit about newly released songs. It fetches user comments from relevant Reddit posts and classifies them into positive, neutral, or negative sentiments using the VADER sentiment analysis tool.
+This project is a very, very, very basic Natural Language Processing (NLP) application that analyzes public sentiment on Reddit about newly released songs. It fetches user comments from relevant Reddit posts and classifies them into positive, neutral, or negative sentiments using the VADER sentiment analysis tool. 
+
 
 ## 🔍 Features
 
@@ -71,7 +72,7 @@ The script generates a CSV file `sentiment_output.csv` with the following fields
 
 ## 🧠 Why This Project?
 
-This project is part of a larger learning journey into NLP, with the eventual goal of applying similar techniques for evaluating prompts in an AI-based prompt engineering tool.
+This project is part of a larger learning journey into NLP, with the eventual goal of applying similar techniques for evaluating prompts in an AI-based prompt engineering tool. I just did this project for fun since the best way to learn and enjoy it is through a project-based experience. I wanted to get a nice idea about NLP and how Sentiment Analysis works. I will use the skills and insights from this project for Qrion, as well as my Stock Sentiment Analysis tool, soon.
 
 ## 🔮 Future Improvements
 
@@ -84,9 +85,6 @@ This project is part of a larger learning journey into NLP, with the eventual go
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📜 License
-
-[MIT](LICENSE)
 
 ---
 
